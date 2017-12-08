@@ -1,5 +1,5 @@
 # First ticket reverse
-In this small project i will be attempting to work out how the new QR code tickets encode some of their data and to see if there is any issues with it
+In this small project i will be attempting to work out how the new QR code tickets encode some of their data and to see if there is any issues with it. I will be using the ticken number for folder names
 
 # DISCLAIMER
 I take no responsiblity for this infomation being used to commit fraud, I do not indend to go in to detail about sections i feel are used to prevent fraud, i will simply say that it is a fraud prevention section but will not give any detail on how it works. Although i may rase the issue with first so they can contact the manufacture
