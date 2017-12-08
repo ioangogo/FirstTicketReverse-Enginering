@@ -1,4 +1,4 @@
-#First ticket reverse
+# First ticket reverse
 In this small project i will be attempting to work out how the new QR code tickets encode some of their data and to see if there is any issues with it
 
 # DISCLAIMER
